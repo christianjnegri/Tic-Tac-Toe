@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\GitHub\Ch29-Mission-Demolition\Assets\Scripts\FollowCam.cs">
+    <Files>
+      <File FileName="..\GitHub\Ch29-Mission-Demolition\Assets\Scripts\FollowCam.cs" Line="26" Column="53" />
+      <File FileName="..\GitHub\Ch29-Mission-Demolition\Assets\Scripts\Slingshot.cs" Line="32" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
